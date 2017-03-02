@@ -1,0 +1,17 @@
+body{
+	background-color: #eee;
+}
+
+.first{
+		color:pink;
+	}
+
+	.second{
+		color: violet
+	}
+
+
+	.result{
+		color:#00ff00;
+		font-size: 50px;
+	}
